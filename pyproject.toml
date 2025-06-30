@@ -5,9 +5,10 @@ description = ""
 authors = [
     {name = "Anikavuk",email = "usla_2018@mail.ru"}
 ]
-readme = "README.md"
+#readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "environs (>=14.2.0,<15.0.0)"
 ]
 
 
